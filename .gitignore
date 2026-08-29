@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Generated outputs
+outputs/
+
+# Trained model files
+*.pkl
+*.joblib
+
+# Local datasets
+*.csv
+*.xlsx
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
